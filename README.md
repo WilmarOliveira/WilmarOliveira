@@ -1,6 +1,6 @@
 ## Hey, I'm Wilmar! 👋
 
-Front-end React Developer.Technology lover, curious for learn new tools and enthusiast of new challenges.
+Full-Stack Developer.Technology lover, curious for learn new tools and enthusiast of new challenges.
 
 At the moment i work at [Sankhya](https://www.sankhya.com.br)
 
