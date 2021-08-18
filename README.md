@@ -2,7 +2,7 @@
 
 Full Stack Developer.Technology lover, curious for learn new tools and enthusiast of new challenges.
 
-At the moment i work at [Sankhya](https://www.sankhya.com.br)
+At the moment i work at [Sensedia](https://br.sensedia.com/)
 
 I currently improve my knowledge with the bootcamp of [DevSuperior](https://devsuperior.com.br)
 
